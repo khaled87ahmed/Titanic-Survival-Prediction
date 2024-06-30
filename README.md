@@ -25,10 +25,3 @@ To deploy artificial intelligence techniques, specifically machine learning mode
 
 ## Results
 The project successfully implemented and compared different machine learning models, showing improved accuracy after applying the preprocessing pipeline.
-
-## Instructions
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Titanic-Machine-Learning-Project.git
-   cd Titanic-Machine-Learning-Project
